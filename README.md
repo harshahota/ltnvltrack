@@ -1,3 +1,4 @@
+# forked from [mCodex/react-redux-saga-boilerplate](https://github.com/mCodex/react-redux-saga-boilerplate)
 # react-redux-saga-boilerplate
 
 My simple starter kit which I'd love to share to the community. The project was generated from `create-react-app` and then I included a few libraries.
